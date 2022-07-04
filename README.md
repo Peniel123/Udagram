@@ -1,2 +1,2 @@
 # Udagram Image Filtering Microservice
-http://secondenv.us-east-1.elasticbeanstalk.com/
+http://udagram3.us-east-1.elasticbeanstalk.com/
